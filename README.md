@@ -15,6 +15,7 @@ The following are the changes done in the PCB design files (.pcb file):
 		C14, C20, C21, C22,C34 - Moved from B. Cu to F. Cu layer  
 
 
+The objectives for design changes in Tympan Rev D, the test results and the outcomes were presented at International HEaring Aid Reserach Conference IHCOn 2022 and the same poster 'IHCON 2022 poster_Dhwani(Tympan DFMI) is uploaded.
 		
 
 		
